@@ -1,1 +1,5 @@
-/xml
+/.settings
+/.classpath
+/.project
+/.springBeans
+/target
